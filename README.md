@@ -12,7 +12,7 @@ As every other wizards🧙‍♂️ , python has its own conditions ❗for this 
 - Everyone should be brutually honest when asked about ranking their partners in order of preferrence
 - The number of boys and girls must be equal. We don't want anyone to be left out in the corner. 💔
 
-# Some Theorical Background: 🔍
+# Some Theoretical Background: 🔍
 
 The given use case is an application of the popular [Stable Marriage Problem](https://en.wikipedia.org/wiki/Stable_marriage_problem) and is solved by the[Gayle-Shapely algorithm](https://en.wikipedia.org/wiki/Gale%E2%80%93Shapley_algorithm)
 
